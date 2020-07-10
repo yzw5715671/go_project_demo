@@ -21,15 +21,6 @@ source ~/.bashrc
 
 3. clone依赖的代码
 
-cd ~/workspace/
-git clone ssh://git@gitlab-wenba.xueba100.com:9922/fudao2/vendor.git
-
-cd ~/workspace/xbj/src
-git clone ssh://git@gitlab-wenba.xueba100.com:9922/fudao2/golibs.git
-
-cd ~/workspace/xbj/src
-git clone ssh://git@gitlab-wenba.xueba100.com:9922/fudao2/go-demo-project.git
-
 4. 编写代码
 5. 编译运行
 cd ~/workspace/xbj/src/go-demo-project/server
